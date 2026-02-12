@@ -47,3 +47,6 @@ Automated systems can regulate ventilation and heating.
 Computers and servers use temperature sensors to prevent overheating.
 
 Fans or cooling systems are activated when temperatures exceed safe limits.
+ 
+ Output
+ (https://github.com/user-attachments/assets/8432ce54-efc7-4ca9-987c-11f436406eb8)
